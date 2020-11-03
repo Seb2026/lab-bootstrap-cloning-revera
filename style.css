@@ -3,32 +3,44 @@ header {
     width: 1170px;
 }
 
-#slider{
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+}
+
+.slider{
     height: 550px;
     position: relative;
     background-color: black;
 }
 
 h2 {
-    color: blue;
+    color: black;
 }
 
-#widgets {
+.widgets {
     height: 314px;
     background-color: #ed564b;
 }
 
-#article {
+.article {
     height: 1121px;
 }
 
-#bottom {
+.bottom {
     height: 351px;
     background-color: #3b3b3b;
 
 }
 
-footer {
+.dark-end {
     height: 78px;
     background-color: #292929;
 }
