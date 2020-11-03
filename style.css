@@ -1,0 +1,34 @@
+header {
+    position: relative;
+    width: 1170px;
+}
+
+#slider{
+    height: 550px;
+    position: relative;
+    background-color: black;
+}
+
+h2 {
+    color: blue;
+}
+
+#widgets {
+    height: 314px;
+    background-color: #ed564b;
+}
+
+#article {
+    height: 1121px;
+}
+
+#bottom {
+    height: 351px;
+    background-color: #3b3b3b;
+
+}
+
+footer {
+    height: 78px;
+    background-color: #292929;
+}
